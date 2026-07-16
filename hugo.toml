@@ -1,4 +1,4 @@
-baseURL = "https://duckjournal.pages.dev/"
+baseURL = "https://duck-journal.pages.dev/"
 title = "Duck Journal"
-theme = "danto"
+theme = "hugo-xmag"
 languageCode = "fr-fr"
