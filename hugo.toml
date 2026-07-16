@@ -1,0 +1,4 @@
+baseURL = "https://duckjournal.pages.dev/"
+title = "Duck Journal"
+theme = "danto"
+languageCode = "fr-fr"
