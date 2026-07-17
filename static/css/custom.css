@@ -1,0 +1,65 @@
+/* ===== Duck Journal - Palette bleu & jaune, sans rouge ===== */
+
+body {
+	background: #f6e7b4; /* fond jaune pâle "vieux papier journal" */
+}
+
+.container--outer,
+.content,
+.widget {
+	background: #fffbea;
+}
+
+header {
+	background: #123b60; /* bleu nuit */
+}
+
+.logo__title {
+	color: #f4c430 !important; /* jaune doré pour le nom du journal */
+}
+
+.logo__subtitle {
+	color: #f6e7b4 !important;
+}
+
+a {
+	color: #1a5276;
+}
+
+a:hover {
+	color: #f4c430;
+}
+
+.menu__list {
+	background: #123b60;
+}
+
+.menu__list a {
+	color: #f6e7b4;
+}
+
+.menu__list a:hover {
+	color: #f4c430;
+}
+
+.btn,
+kbd,
+blockquote,
+.tags__item,
+.toc__menu ul {
+	background: #123b60 !important;
+	color: #fffbea !important;
+}
+
+code {
+	color: #123b60; /* remplace le rouge par du bleu */
+}
+
+.footer {
+	background: #123b60;
+	color: #f6e7b4;
+}
+
+.footer a {
+	color: #f4c430;
+}

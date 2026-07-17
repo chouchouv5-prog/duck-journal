@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duck Journal</title>
+    <title>The Green Duck</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Duck Journal</description>
+    <description>Recent content on The Green Duck</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 16 Jul 2026 05:07:30 +0100</lastBuildDate>

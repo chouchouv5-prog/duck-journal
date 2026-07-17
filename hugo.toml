@@ -1,6 +1,53 @@
 baseURL = "https://duck-journal.pages.dev/"
-title = "Duck Journal"
-theme = "hugo-xmag"
+title = "The Green Duck"
+theme = "mainroad"
 languageCode = "fr-fr"
-[params]
+paginate = 10
+
+[Params]
+  description = "Le journal quotidien Duck"
+  readmore = true
+  authorbox = false
+  pager = true
+  post_meta = ["date", "categories"]
   mainSections = ["articles"]
+  customCSS = ["css/custom.css"]
+
+[Params.logo]
+  subtitle = "Actualités, photos, vidéos et récits"
+
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = false
+
+[[menu.main]]
+  name = "Accueil"
+  URL = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Articles"
+  URL = "/articles/"
+  weight = 2
+
+[[menu.main]]
+  name = "Photos"
+  URL = "/photos/"
+  weight = 3
+
+[[menu.main]]
+  name = "Vidéos"
+  URL = "/videos/"
+  weight = 4
+
+[[menu.main]]
+  name = "Livres"
+  URL = "/livres/"
+  weight = 5
