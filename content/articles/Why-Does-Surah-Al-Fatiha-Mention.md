@@ -2,7 +2,7 @@
 date = '2026-07-18T00:05:23+01:00'
 draft = false 
 title = 'Why Does Surah Al-Fatiha Mention"
-categories = ['Religion', 'Islam', 'Actualités']
+categories = ['Actualités']
 tags = ['Angleterre', 'Londres','Paris', 'météo' ]
 
 +++
