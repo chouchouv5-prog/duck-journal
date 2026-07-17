@@ -2,10 +2,9 @@
 date = '2026-07-18T00:05:23+01:00'
 draft = false 
 title = 'Why Does Surah Al-Fatiha Mention\"Those Who Incurred God's Wrath\"? Understanding a Controversial Quranic Verse'
-categories = ['Actualités']
-categories = ['Religion', 'Islam']
-tags = ['Angleterre', 'Londres']
-tags = ['Paris', 'météo']
+categories = ['Religion', 'Islam', 'Actualités']
+tags = ['Angleterre', 'Londres','Paris', 'météo' ]
+
 +++
 
 
