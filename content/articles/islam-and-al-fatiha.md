@@ -1,6 +1,6 @@
 +++
 date = '2026-07-18T01:44:21+01:00'
-draft = flase
+draft = false
 title = 'Islam and Al Fatiha'
 +++
 Why Does Surah Al-Fatiha Mention "Those Who Incurred God's Wrath"? Understanding a Controversial Quranic Verse
