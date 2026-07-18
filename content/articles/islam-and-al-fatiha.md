@@ -1,13 +1,10 @@
 +++
-date = '2026-07-18T00:05:23+01:00'
-draft = false 
-title = 'Why Does Surah Al-Fatiha Mention"
-categories = ['Actualités']
-tags = ['Angleterre', 'Londres','Paris', 'météo' ]
-
+date = '2026-07-18T01:44:21+01:00'
+draft = flase
+title = 'Islam and Al Fatiha'
 +++
+Why Does Surah Al-Fatiha Mention "Those Who Incurred God's Wrath"? Understanding a Controversial Quranic Verse
 
-# Those Who Incurred God's Wrath"? Understanding a Controversial Quranic Verse'
 The seventh verse of Surah Al-Fatiha, the opening chapter of the Quran recited by Muslims in every unit of their daily prayers, has long been the subject of theological discussion and interfaith debate. While the verse itself does not explicitly name any religious community, centuries of Islamic scholarship have offered interpretations that continue to spark controversy in the modern world.
 
 The verse reads:
