@@ -1,5 +1,5 @@
 +++
-date = '2026-07-18T01:44:21+01:00'
+date = '2026-07-21'
 draft = false
 title = ''
 categories = ['Actualités']
